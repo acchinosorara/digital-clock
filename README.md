@@ -1,2 +1,4 @@
-# digital-clock
-7セグメントディスプレイ風の時計
+# Digital Clock
+7セグメントディスプレイ風のデジタル時計です。
+
+[Demo](https://acchinosorara.github.io/digital-clock/)
